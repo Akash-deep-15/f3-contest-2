@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#fetchDataButton{
+    margin: 20px;
+    height: 50px;
+    width: 150px;
+    background-color: rgb(61, 116, 255);
+    color: white;
+    font-size: 30px;
+    border: none;
+    border-radius: 5px;
+}
